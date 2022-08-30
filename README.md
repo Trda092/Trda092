@@ -10,5 +10,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) 
 
 
-![GitHub all releases](https://img.shields.io/github/downloads/{username}/{repo-name}/total)
-![GitHub language count](https://img.shields.io/github/languages/count/{username}/{repo-name})
+![GitHub all releases](https://img.shields.io/github/downloads/Trda092/total)
+![GitHub language count](https://img.shields.io/github/languages/count/Trda092)
