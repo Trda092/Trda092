@@ -1,4 +1,4 @@
-# Hi there, I'm Trda
+## Hi there, I'm Trda
 
 - 🔭 I’m currently working on 'React', 'Vue', 'Java', 'Python'
 - 🌱 I’m currently learning 'Go', 'Kotlins', 'K8s', 'Docker'
