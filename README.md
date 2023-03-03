@@ -1,8 +1,8 @@
 ## Hi there, I'm Trda
 
 - 🔭 I’m currently working on 'Java', 'Python', 'JavaScript'
-- 🌱 I’m currently learning 'Go', 'Docker', 'Bun'
-- 🤔 I’m looking for help with 'Web Development', 'Penetration', 'Game Development'
+- 🌱 I’m currently learning 'Go', 'Docker'
+- 🤔 I’m looking for help with 'Web Development', 'Secureity Guard', 'Game Development'
 - 📫 How to reach me: Waiting for update
 - 😄 Pronouns: Trda as 'Tada'
 
