@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on 'Java', 'Python', 'JavaScript'
 - 🌱 I’m currently learning 'Go', 'Docker'
-- 🤔 I’m looking for help with 'Web Development', 'Secureity Guard', 'Game Development'
+- 🤔 I’m looking for help with 'Web Development', 'Security Guard', 'Game Development'
 - 📫 How to reach me: Waiting for update
 - 😄 Pronouns: Trda as 'Tada'
 
