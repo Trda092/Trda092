@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on 'Java', 'Python', 'JavaScript'
 - 🌱 I’m currently learning 'Typescript', 'Docker'
-- 🤔 I’m looking for help with 'Cyber Security', 'Game Development'
-- 📫 How to reach me: Waiting for update
+- 🤔 I’m looking for help with 'Cyber Security'
+- 📫 How to reach me: Waiting for an update
 - 😄 Pronounce: Trda as 'Tada'
 
 ## Stats
