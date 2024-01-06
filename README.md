@@ -11,3 +11,4 @@
 
 ![Trdamp's GitHub stats](https://github-readme-stats.vercel.app/api?username=trda092&show_icons=true&theme=radical)
 
+[![Trdamp's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=trdamp)](https://github.com/anuraghazra/github-readme-stats)
