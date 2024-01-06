@@ -7,7 +7,7 @@
 - 😄 Pronounce: Trda as 'Tada'
 
 ## Stats
-![Trdamp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trda092&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Trdamp Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trda092&layout=compact)
 
 ![Trdamp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trda092&show_icons=true&theme=radical)
 
