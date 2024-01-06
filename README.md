@@ -9,5 +9,5 @@
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trda092&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![Trdamp's GitHub stats](https://github-readme-stats.vercel.app/api?username=trda092&show_icons=true&theme=radical)
 
